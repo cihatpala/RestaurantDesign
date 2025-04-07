@@ -9,50 +9,50 @@
   {
     "name": "Köfteci Yusuf",
     "rate": 2,
-    "recommendedTag": true,
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "recommendedTag": false,
+    "image": "https://img.odatv.com/rcman/Cw1280h720q95gc/storage/files/images/2024/10/09/urunlerinde-domuz-eti-cikan-kofteci-kofteci-yusuf-cikti-84le.jpg",
     "stock": 7
   },
   {
     "name": "İsos Döner",
     "rate": 3,
     "recommendedTag": true,
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
-    "stock": 7
+    "image": "https://isosdoner.com/design/isoslogo.png",
+    "stock": 5
   },
   {
     "name": "Şölen Çorba",
     "rate": 4,
     "recommendedTag": true,
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
-    "stock": 7
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/rpa5-listing.jpg",
+    "stock": 3
   },
   {
     "name": "Hanzade Künefe",
-    "rate": 5,
+    "rate": 2,
     "recommendedTag": true,
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
-    "stock": 7
+    "image": "https://mekanlar.com/img/img127/835d1f844a6ccd0aea831fe4c281b4305f06d8e7_plc_1f68849d6853145920e13087deb2e6d6.png",
+    "stock": 15
   },
   {
     "name": "Starbucks",
-    "rate": 6,
-    "recommendedTag": true,
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
-    "stock": 7
+    "rate": 1,
+    "recommendedTag": false,
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/222px-Starbucks_Corporation_Logo_2011.svg.png",
+    "stock": 9
   },
   {
     "name": "Coffy",
-    "rate": 1,
+    "rate": 5,
     "recommendedTag": true,
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
-    "stock": 7
+    "image": "https://coffy.com.tr/wp-content/uploads/2021/04/COFFY-EDIT-20-47.jpg",
+    "stock": 13
   },
   {
     "name": "Espressolab",
     "rate": 1,
     "recommendedTag": true,
-    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Espressolab.jpg",
     "stock": 7
   }
 ]
