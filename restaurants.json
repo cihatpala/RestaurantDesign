@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Ercan Burger",
+    "rate": 2,
+    "recommendedTag": true,
+    "image": 2131230890,
+    "stock": 12
+  },
+  {
+    "name": "Köfteci Yusuf",
+    "rate": 4,
+    "recommendedTag": true,
+    "image": 2131230891,
+    "stock": 7
+  }
+]
