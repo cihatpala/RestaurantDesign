@@ -1,16 +1,58 @@
 [
   {
     "name": "Ercan Burger",
-    "rate": 2,
+    "rate": 1,
     "recommendedTag": true,
-    "image": 2131230890,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
     "stock": 12
   },
   {
     "name": "Köfteci Yusuf",
+    "rate": 2,
+    "recommendedTag": true,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "stock": 7
+  },
+  {
+    "name": "İsos Döner",
+    "rate": 3,
+    "recommendedTag": true,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "stock": 7
+  },
+  {
+    "name": "Şölen Çorba",
     "rate": 4,
     "recommendedTag": true,
-    "image": 2131230891,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "stock": 7
+  },
+  {
+    "name": "Hanzade Künefe",
+    "rate": 5,
+    "recommendedTag": true,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "stock": 7
+  },
+  {
+    "name": "Starbucks",
+    "rate": 6,
+    "recommendedTag": true,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "stock": 7
+  },
+  {
+    "name": "Coffy",
+    "rate": 1,
+    "recommendedTag": true,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
+    "stock": 7
+  },
+  {
+    "name": "Espressolab",
+    "rate": 1,
+    "recommendedTag": true,
+    "image": "https://images.deliveryhero.io/image/fd-tr/LH/pc0l-hero.jpg",
     "stock": 7
   }
 ]
